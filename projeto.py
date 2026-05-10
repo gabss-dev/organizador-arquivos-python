@@ -10,7 +10,8 @@ tipos = {
     ".jpeg": "Imagens",
     ".mp3": "Musicas",
     ".mp4": "Videos",
-    ".zip": "Compactados"
+    ".zip": "Compactados",
+    ".txt": "Documentos"
 }
 
 arquivos = os.listdir(pasta)
